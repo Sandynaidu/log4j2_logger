@@ -12,6 +12,7 @@ If not upgraded already, it is highly recommended to upgrade Log4j2 to the lates
 
 1.1. Maven
 pom.xml
+
 <dependency>
 <groupId>org.apache.logging.log4j</groupId>
 <artifactId>log4j-api</artifactId>
