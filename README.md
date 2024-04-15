@@ -53,6 +53,7 @@ log4j2.xml
 3.  Core Log4j2  API logic add in your class 
 
     import org.apache.logging.log4j.Logger;
+    
     import org.apache.logging.log4j.LogManager;
 
 public class Main {
