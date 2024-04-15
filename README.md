@@ -1,8 +1,6 @@
 Log4j2 XML Configuration: Log4j2.xml Example
-Lokesh Gupta
-September 19, 2023
-Log4j2
-Java Logging
+
+Log4j2,Java Logging
 Learn to configure log4j2.xml file to output the log statements to the console, rolling files etc. Learn to configure log4j2 appenders, levels and patterns.
 
 Apache Log4j2 is an upgrade to Log4j 1.x that provides significant improvements over its predecessor such as performance improvement, automatic reloading of modified configuration files, Java 8 lambda support and custom log levels.
